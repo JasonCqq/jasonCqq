@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Jason</h1>
 <h3 align="center">Web developer</h3>
 
-- I’m currently learning **React and Node.js** through **The Odin Project**
+- I’m currently learning **Node.js and Other Web Technologies** through **The Odin Project**
 - Currently pursuing a **Computer Science** Degree
 - Reach me through Email: jasonh21715@gmail.com
 
@@ -14,6 +14,7 @@
 <img align="left" alt="React" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />      
 <img align="left" alt="Git" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Firebase" width="40px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" />
 <img align="left" alt="Jest" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
 <img align="left" alt="Linux" width="40px"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
