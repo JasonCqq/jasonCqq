@@ -23,9 +23,6 @@
 
 #
 
-### Stats
-
-![Jason21715's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason21715&show_icons=true&theme=radical)
 
 
 
