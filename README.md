@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Web developer</h3>
 
 - Currently pursuing a **Computer Science** Degree
-- Reach me through Email: jasonh21715@gmail.com
+- Reach me through Email: jason.cq.huang@gmail.com
 
 #
 
