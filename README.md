@@ -1,7 +1,8 @@
 <h1 align="center">Hello, I'm Jason</h1>
-<h3 align="center">Full Stack Web developer</h3>
+<h4 align="center">Full Stack Web developer</h4>
 
 - Currently pursuing a **Computer Science** Degree
+- My Portfolio: [jasoncqh.com](https://jasoncqh.com/)
 - Reach me through Email: jason.cq.huang@gmail.com
 
 #
